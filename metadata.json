@@ -1,0 +1,6 @@
+{
+  "name": "Swing AI",
+  "description": "A closed-loop AI swing trading dashboard with automated screening, validation, and evaluation loops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
